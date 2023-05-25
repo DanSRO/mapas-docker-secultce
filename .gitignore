@@ -1,5 +1,5 @@
 core/
-db
+
 docker-data
 tests
 themes
